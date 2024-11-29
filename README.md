@@ -49,6 +49,7 @@
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 [owner by tharusha-sandipa] 
+<br>
  <a href="https://wa.me/+94740326138?text=_Hey:-~*Tharu*___*BOY*~/🧸💗✨/"><img src="https://i.ibb.co/tL6wqff/406b3f5a8c6fd877.jpg/u/106251140?v=4" width=80 height=80></a>   
 |**[`tharusha sandipa`](https://github.com/tharusha-sandipa)**|
 
