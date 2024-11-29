@@ -9,6 +9,8 @@
 
 
 [![FORK SANDIPA-MD](https://img.shields.io/badge/FORK%20-SANDIPAMD-white)](https://github.com/Tharusha-sandipa/SANDIPA-MD/fork)
-[![STAR SANDIPA-MD](http://img.shields.io/badge/STAR%20-SANDIPA-MD-white)](http://github.com/Tharusha-sandipa/SANDIPA-MD/star)
 
-A multi d
+<a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
+A multi device whatsapp bot😗❤️‍🩹
