@@ -7,7 +7,10 @@
 
 <img alt="GHOST-MD" height="300" src="https://i.ibb.co/wcHwdPK/53d2bff096a99c23.jpg" >
 
+![forks](https://github.com/Tharusha-sandipa/SANDIPA-MD.git)
+
+![stars](https://github.com/Tharusha-sandipa/SANDIPA-MD.git)
 
 
 
-A multi device whatsapp bot😗❤️‍🩹
+A multi device whatsa
