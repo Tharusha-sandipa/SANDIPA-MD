@@ -50,8 +50,8 @@
 # [pair_code_01]
 
 
-[owner by tharusha-sandipa] 
-<br>
+<b>CONTACT OWNER THARUSHA SANDIPA</b>
+
  <a href="https://wa.me/+94740326138?text=_Hey:-~*Tharu*___*BOY*~/🧸💗✨/"><img src="https://i.ibb.co/tL6wqff/406b3f5a8c6fd877.jpg/u/106251140?v=4" width=80 height=80></a>   
 |**[`tharusha sandipa`](https://github.com/tharusha-sandipa)**|
 
