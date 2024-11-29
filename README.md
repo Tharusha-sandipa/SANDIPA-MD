@@ -11,6 +11,7 @@
 
 ![stars](https://github.com/Tharusha-sandipa/SANDIPA-MD.git)
 
+[![FORK SANDIPA-MD](https://img.shields.io/badge/FORK%20-SANDIPAMD-white)](https://github.com/Tharusha-sandipa/SANDIPA-MD/fork)
 
 
-A multi device whatsa
+A multi device wh
