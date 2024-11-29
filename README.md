@@ -12,5 +12,12 @@
 
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+ 
+ <a href="https://github.com/tharusha-sandipa/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
+---
+
+|**[`tharusha sandipa`](https://github.com/tharusha-sandipa)**|
+
+---
 A multi device whatsapp bot😗❤️‍🩹
