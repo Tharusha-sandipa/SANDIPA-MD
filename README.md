@@ -24,15 +24,15 @@
 
 <p align="center">
   <a href="https://github.com/tharusha-sandipa/SANDIPA-MD">
-    <img src="https://img.shields.io/github/repo-size/tharusha-sandipa/SANDIPA-MD?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/tharusha-sandipa/SANDIPA-MD?color=blue&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/tharusha-sandipa/SANDIPA-MD">
-    <img src="https://img.shields.io/github/license/tharusha-sandipa/SANDIPA-MD?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/tharusha-sandipa/SANDIPA-MD?color=blue&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/tharusha-sandipa/SANDIPA-MD">
-    <img src="https://img.shields.io/github/languages/top/tharusha-sandipa/SANDIPA-MD?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/tharusha-sandipa/SANDIPA-MD?color=blue&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/tharusha-sandipa/SANDIPA-MD">
