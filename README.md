@@ -14,9 +14,6 @@
 
  
  <a href="https://github.com/tharusha-sandipa/"><img src="https://i.ibb.co/Lzr8BzG/afefc931c398b0ea.jpg/u/106251140?v=4" width=80 height=80></a>   
-
----
-
 |**[`tharusha sandipa`](https://github.com/tharusha-sandipa)**|
 
 ---
