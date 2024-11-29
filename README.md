@@ -47,6 +47,8 @@
 [![FORK SANDIPA-MD](https://img.shields.io/badge/FORK%20-SANDIPAMD-white)](https://github.com/Tharusha-sandipa/SANDIPA-MD/fork)
 
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+# [pair_code_01]
+
 
 [owner by tharusha-sandipa] 
 <br>
