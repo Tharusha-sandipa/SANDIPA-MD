@@ -1,0 +1,21 @@
+{
+  "name": "SANDIPA-MD",
+  "description": "SANDIPA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://i.ibb.co/wcHwdPK/53d2bff096a99c23.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    }  
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
