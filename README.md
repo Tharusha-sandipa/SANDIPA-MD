@@ -36,7 +36,7 @@
 
   </a>
   <a href="https://github.com/tharusha-sandipa/SANDIPA-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Tharusha%20Sandipa&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Tharusha%20Sandipa&color=blue&style=plastic">
 
   </a>
   </p>
