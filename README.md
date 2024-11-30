@@ -49,6 +49,18 @@
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 # [pair_code_01]
 
+<b>DEPLOY</b>
+</br>
+</br>
+ [![nima](https://img.shields.io/badge/sandipaa_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-MD-V2)
+  
+[![nima](https://img.shields.io/badge/sandipaa_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
+   
+[![nima](https://img.shields.io/badge/sandipa_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+   
+[![nima](https://img.shields.io/badge/sandipa_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+
+
 
 <b>CONTACT OWNER THARUSHA SANDIPA</b>
 
