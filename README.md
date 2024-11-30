@@ -8,7 +8,7 @@
 <img alt="SANDIPA-MD" height="300" src="https://i.ibb.co/BwyN75J/abf0cc3625737791.jpg" >
 <hr>
  <p align="center">
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
   <a href="https://github.com/tharusha-sandipa/SANDIPA-MD">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftharusha-sandipa%2FSANDIPA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
