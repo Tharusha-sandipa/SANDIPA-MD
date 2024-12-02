@@ -1,14 +1,15 @@
+
 {
-    "name": "SANDIPA-MD",
-  "version": "1.0.0",
-  "description": "SANDIPA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "main": "index.js",
-  "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SANDIPA-MD",
-    "stop": "pm2 stop SANDIPA-MD",
-    "restart": "pm2 restart SANDIPA-MD"
-   },
-  "dependencies": {
+    "name": "SANDIPAMD",
+    "version": "2.1.4",
+    "description": "SANDIPAMD is a Powerful Whatsapp bot.  👨‍💻❤️",
+    "main": "start.js",
+    "scripts": {
+        "start": "pm2 start start.js --deep-monitoring --attach --name wabot-sandipamd",
+        "stop": "pm2 stop wabot-sandipamd",
+        "restart": "pm2 restart wabot-sandipamd"
+    },
+    "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@black-king/temp-mail-gen": "1.0.1",
         "@blackamda/song_video_dl": "1.1.0",
@@ -16,7 +17,6 @@
         "@bochilteam/scraper": "4.2.4",
         "@bochilteam/scraper-sosmed": "1.0.5",
         "@danitech/scraper": "1.0.7",
-        "@dark-yasiya/yt-dl.js": "^1.0.4",
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@google/generative-ai": "0.17.1",
         "@saipulanuar/scraper": "3.0.0",
@@ -30,6 +30,7 @@
         "@tobyg74/tiktok-api-dl": "1.0.13",
         "@vitalets/google-translate-api": "9.2.0",
         "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git#master",
+        "api-dylux": "latest",
         "aptoide-scraper": "1.0.1",
         "awesome-phonenumber": "6.2.0",
         "axios": "^1.6.7",
@@ -75,8 +76,6 @@
         "megajs": "1.1.0",
         "mfiredlcore-vihangayt": "^1.0.0",
         "mime-types": "2.1.35",
-        "nayan-media-downloader": "2.4.9",
-        "nayan-server": "2.4.2",
         "nima-wabeta-info": "1.0.5",
         "node-fetch": "^2.6.1",
         "pastebin-js": "latest",
@@ -111,12 +110,6 @@
         "ytdl-mp3": "3.4.0",
         "ytdl-secktor": "latest",
         "ytmp3-scrap":"1.0.0",
-        "bing-translate-api":"4.0.2", 
-        "ruhend-scraper" : "8.0.3",
-        "dark-yasiya-sinhalasub.lk": "1.0.1",
-        "moment-timezone": "^0.5.43",
-        "mfiredlcore-vihangayt": "^1.0.0",
-        "ytsearch-venom": "1.0.0",
-        "yt-search": "^2.12.1"
+        "bing-translate-api":"4.0.2"
     }
 }
