@@ -47,7 +47,7 @@
 <b>PAIR CODE <b>
 </br>
 </br>
-<a href='https://wefkskweb-pair-939d98e13059.herokuapp/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://tharuwebpairv2-70aa3d5df58f.herokuapp/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <b>DEPLOY SANDIPA-MD </b>
 </br>
